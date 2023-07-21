@@ -5,7 +5,7 @@ site_url: https://traveller.lukewh.com/
 theme:
     name: 'material'
     logo: assets/meta/traveller-lukewh-logo.png
-    favicon: assets/meta/favicons.png
+    favicon: assets/meta/icon.png
     custom_dir: overrides
     font:
         text: Ubuntu
