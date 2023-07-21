@@ -1,4 +1,5 @@
 ---
+title: 0606 - Verdax
 share: true
 uwp: Verdax 0606 D858556-4S Ag Ga Lt 814 Na
 ---

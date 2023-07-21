@@ -1,4 +1,5 @@
 ---
+title: 0506 - Raxus
 share: true
 uwp: Raxus 0506 E000344-BP As Va Lo A 621 Na
 banner: "![[Pasted image 20230712113018.png]]"
